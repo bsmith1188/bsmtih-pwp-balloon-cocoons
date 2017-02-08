@@ -18,3 +18,21 @@ Like I said before work on making sure everything fits in the expectations of th
 ## grade 
 tier IV
 
+## Milestone 2&alpha; feedback
+There is just enough detail here in your wireframes to serve as a basic guide for your HTML/front-end development, but there is definite room for more detail here in regards to your specific UI elements.
+
+The regions where you plan to feature the balloon information will probably be the most complex of your UI. Have a look at the [Bootstrap Thumbnails](http://getbootstrap.com/components/#thumbnails) - this might be a good place to start. 
+
+If you want to feature gallery-like functionality on the image thumbnails, have a look at the  [Swipebox](http://brutaldesign.github.io/swipebox/) or [Flickity](http://flickity.metafizzy.co/) plugins. These are both mobile-friendly and easy to implement.
+
+Don't forget to include an actual contact form in your project. If you plan on featuring this form in the footer - you may consider altering your layout a bit for visual balance.
+
+We'll cover how to use the Bootstrap framework to create your layout on Monday. In the meantime, you can use the time to collect your site images and content.
+
+Your Milestone 2&alpha; passes at [Tier II](https://bootcamp-coders.cnm.edu/projects/personal/rubric/). You are clear to begin development on your PWP, but I strongly encourage refining the wireframes to include a finer level of detail. This way you have a better guide as you begin your development. 
+
+### Edits &amp; Suggestions
+- In your `.gitignore` line 4 should be `/node_modules` with an underbar, and line 1 should be `.DS_Store`
+- The meta charset tag is missing the closing `>` This can be potentially toxic.
+- Don't forget the `alt` attribute on your `<img>` tags!
+
