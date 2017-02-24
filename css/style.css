@@ -1,0 +1,13 @@
+#welcome {
+	text-align: center;
+	font-family: Garamond;
+	font-size: 5rem;
+
+}
+#grad {
+	background: linear-gradient(15deg, deeppink, cyan);
+}
+#contact-right {
+	text-align: right;
+
+}
