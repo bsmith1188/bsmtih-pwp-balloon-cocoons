@@ -14,8 +14,8 @@
 		<div class="col-md-12"></div>
 		<div class="col-md-2"></div><div class="col-md-8" id="intro">Here you can see a few premade templates of balloons along with pricing to get a grasp of what is possible. Keep in mind custom balloons are easily available all you need to do is contact me down below.</div>
 		<!--setting placeholders for the images to be set for left or right side-->
-		<div class="col-md-3"><img class="imgleft1" src="public_html/images/christmas-floral.jpg"></div>
-		<div class="col-md-3">Features: Christmas style balloon with gingerbread sucker. $20 </div>
+		<div class="col-md-12"><img id="imgleft1" src="public_html/images/christmas-floral.jpg"></div>
+		<div class="col-md-4" id="christmas">Features: Christmas style balloon with gingerbread sucker. $20 </div>
 		<div class="col-md-3"><img class="imgleft2" src=""></div>
 		<div class="col-md-3">Features blah blah blah $15</div>
 		<div class="col-md-3"><img class="imgleft3" src=""></div>

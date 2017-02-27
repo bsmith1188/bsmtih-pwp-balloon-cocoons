@@ -1,9 +1,16 @@
+body{
+	background-color: #000000;
+	padding: 0px;
+	margin: 0px;
+}
+
 #welcome {
 	text-align: center;
 	font-family: Garamond;
 	font-size: 5rem;
 	color: black;
-	border-bottom: red 2px;
+	text-decoration: underline;
+	padding-bottom: 20px;
 }
 
 #intro {
@@ -13,17 +20,13 @@
 	color: black;
 }
 
-body{
-	background-color: #000000;
-	padding: 0px;
-	margin: 0px;
-}
 #left-info{
 	border:solid black 2px !important;
 	background-color: #f1f1f1;
 	color: black;
 	font-family: Garamond;
-	font-size: 2rem;
+	font-size: 2.5rem;
+	margin-top: 300px;
 }
 
 .panel-default{
@@ -36,7 +39,8 @@ body{
 	background-color: #f1f1f1;
 	color: black;
 	font-family: Garamond;
-	font-size: 2rem;
+	font-size: 2.5rem;
+	margin-top: 300px;
 }
 #mid-info{
 	border-bottom: solid black 2px;
@@ -46,4 +50,20 @@ body{
 	font-family: Garamond;
 	font-size: 2rem;
 	border-right: solid black;
+	margin-top: 300px;
+}
+#imgleft1{
+	height: 300px;
+	width: 250px;
+	padding-top: 30px;
+	padding-left: 30px;
+	padding-right: 10px;
+	margin-right: 10px;
+}
+#christmas{
+	color: black;
+	font-size: 2rem;
+	padding-top: 30px;
+	padding-left: 10px;
+	margin-left: 10px;
 }
