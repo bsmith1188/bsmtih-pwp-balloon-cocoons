@@ -51,8 +51,8 @@
 				</h2>
 			</div>
 
-			<div class="col-md-12" id="most-popular">
-				<h3>Most Popular Balloons</h3>
+			<div class="col-md-12" id="regular">
+				<h3>Regular Balloons</h3>
 			</div>
 			<div class="col-md-4">
 				<p>Test row 1</p>
