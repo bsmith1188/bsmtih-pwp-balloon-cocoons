@@ -54,11 +54,32 @@
 			<div class="col-md-12" id="most-popular">
 				<h3>Most Popular Balloons</h3>
 			</div>
-			<div class="col-md-6">
+			<div class="col-md-4">
 				<p>Test</p>
 			</div>
-			<div class="col-md-6">
+			<div class="col-md-4">
 				<p>Test row 2</p>
+			</div>
+			<div class="col-md-4">
+				<p>Test row 3</p>
+			</div>
+			<div class="col-md-4">
+				<p>Test row 4</p>
+			</div>
+			<div class="col-md-4">
+				<p>Test row 5</p>
+			</div>
+			<div class="col-md-4">
+				<p>Test row 6</p>
+			</div>
+			<div class="col-md-4">
+				<p>Test row 7</p>
+			</div>
+			<div class="col-md-4">
+				<p>Test row 8</p>
+			</div>
+			<div class="col-md-4">
+				<p>Test row 9</p>
 			</div>
 
 
