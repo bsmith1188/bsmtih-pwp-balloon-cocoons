@@ -22,7 +22,35 @@
 	</head>
 	<body>
 		<div class="container">
-			<div class="col-md-12" id="welcome">Welcome to Balloon Cocoons</div>
+			<div class="col-md-12" id="welcome">
+				Welcome to <span id="balloon-cocoons">Balloon Cocoons</span>
+			</div>
+			<div class="col-md-12" id="intro">
+				This site is a gallery with the decriptions of ballons for sale along with prices. Custom balloons are available and you can even put your own stuff in them! Contact me below for more information on the balloons and pricing details.
+			</div>
+
+			<div class="col-md-12" id="most-popular">
+				Most Popular Balloons
+			</div>
+
+
+
+			<div class="col-md-12" id="christmas-balloons">
+			Christmas Style Balloons
+			</div>
+
+
+
+			<div class="col-md-12" id="valentines-balloons">
+				Valentines Balloons
+			</div>
+
+
+			<div class="col-md-12" id="birthday-balloons">
+				Birthday Balloons
+			</div>
+
+
 		</div>
 
 		<footer>
