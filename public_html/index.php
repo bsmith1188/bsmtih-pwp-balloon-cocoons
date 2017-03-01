@@ -6,7 +6,7 @@
 		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<meta name="description" content="Personal Website">
+		<meta name="description" content="Personal Website Project">
 		<meta name="author" content="Benjamin Smith">
 
 		<title>Balloon Cocoons</title>
@@ -36,14 +36,6 @@
 		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"
 				  integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa"
 				  crossorigin="anonymous"></script>
-
-		<!-- Custom CSS -->
-		<link href="css/scrolling-nav.css" rel="stylesheet">
-
-		<!-- Scrolling Nav JavaScript -->
-		<script src="js/jquery.easing.min.js"></script>
-		<script src="js/scrolling-nav.js"></script>
-
 	</head>
 	<body>
 		<header>
