@@ -20,9 +20,9 @@
 		<title>Balloon Cocoons</title>
 
 	</head>
-	<body class="sfooter">
-		<div class="sfooter-content">
-			<!--page content-->
+	<body>
+		<div class="container">
+			<div class="col-md-12" id="welcome">Welcome to Balloon Cocoons</div>
 		</div>
 
 		<footer>
