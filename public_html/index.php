@@ -46,38 +46,42 @@
 
 	</head>
 	<body>
-		<div class="container">
-			<div class="col-md-12" id="welcome">
-				Welcome to <span id="balloon-cocoons">Balloon Cocoons</span>
+		<header>
+			<div class="container">
+				<h1>Welcome to <span id="balloon-cocoons">Balloon Cocoons</span></h1>
 			</div>
+		</header>
+		<div class="container">
 			<div class="col-md-12" id="intro">
-				This site is a gallery with the decriptions of ballons for sale along with prices. Custom balloons are
-				available and you can even put your own stuff in them! Contact me below for more information on the balloons
-				and pricing details.
+				<h2>This site is a gallery with the decriptions of ballons for sale along with prices. Custom balloons are
+					available and you can even put your own stuff in them! Contact me below for more information on the
+					balloons and pricing details
+				</h2>
 			</div>
 
 			<div class="col-md-12" id="most-popular">
-				Most Popular Balloons
+				<h3>Most Popular Balloons</h3>
 			</div>
-				<div class="col-md-6">
-					Test
-				</div>
-				<div class="col-md-6">
-					Test row 2
-				</div>
+			<div class="col-md-6">
+				<p>Test</p>
+			</div>
+			<div class="col-md-6">
+				<p>Test row 2</p>
+			</div>
+
 
 			<div class="col-md-12" id="christmas-balloons">
-				Christmas Style Balloons
+				<h3>Christmas Style Balloons</h3>
 			</div>
 
 
 			<div class="col-md-12" id="valentines-balloons">
-				Valentines Balloons
+				<h3>Valentines Balloons</h3>
 			</div>
 
 
 			<div class="col-md-12" id="birthday-balloons">
-				Birthday Balloons
+				<h3>Birthday Balloons</h3>
 			</div>
 
 

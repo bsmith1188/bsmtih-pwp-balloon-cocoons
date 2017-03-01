@@ -12,8 +12,8 @@
 		<h3>"Contact Me" section</h3>
 		<p>A small footer that "if possible" will always be visible with her contact information so that prospective customers can get her info easily. In the same footer in a different section is just a small text snippet that says custom balloons are available to let people know that their options are not limited at all.</p>
 		<h3>Wireframe for mobile</h3>
-		<img src="../images/pwp-wf-a.png">
+		<img src="../images/wireframes/pwp-wf-a.png">
 		<h3>Wireframe for desktop</h3>
-		<img src="../images/pwp-wf-b.png">
+		<img src="../images/wireframes/pwp-wf-b.png">
 	</body>
 </html>
