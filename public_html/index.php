@@ -45,7 +45,7 @@
 				  type="text/javascript"></script>
 
 		<!--custom form validator-->
-		<script
+		<script></script>
 
 	</head>
 	<body>
@@ -61,7 +61,7 @@
 				</h2>
 			</div>
 
-			<div class="col-md-12" id="regular">
+			<div class="col-md-12" id="regular-balloons">
 				<h3 class="balloon-type">Regular Balloons</h3>
 				<div class="col-md-4">
 					<img src="images/regular/purple-graduation-manzano.jpg" class="image">
@@ -110,7 +110,7 @@
 				</div>
 			</div>
 
-<!--might need to comment this chunk out-->
+<!--might need to comment this chunk out
 			<div class="col-md-12" id="christmas-balloons">
 				<h3 class="balloon-type">Christmas Style Balloons</h3>
 				</div>
@@ -143,7 +143,7 @@
 				<div class="col-md-4">
 					<p class="balloon-info">Test row 9</p>
 				</div>
-
+-->
 
 			<div class="col-md-12" id="valentines-balloons">
 				<h3 class="balloon-type">Valentines Balloons</h3>
@@ -179,27 +179,39 @@
 					<p class="balloon-info">Valentines balloon with small bear, candy, and a chocolate rose.</p>
 				</div>
 				<div class="col-md-4">
-					<p class="balloon-info">Test row 7</p>
+					<img src="images/valentines/pink-bear.jpg" class="image">
+					<h4 class="balloon-name">Pink Bear</h4>
+					<p class="balloon-info">Was a special present with live flowers inside.</p>
 				</div>
 				<div class="col-md-4">
-					<p class="balloon-info">Test row 8</p>
+					<img src="images/valentines/pink-small-bear.jpg" class="image">
+					<h4 class=balloon-name">Small Pink Bear</h4>
+					<p class="balloon-info">Valentines gift with a small pink teddy bear and a necklace.</p>
 				</div>
 				<div class="col-md-4">
-					<p class="balloon-info">Test row 9</p>
+					<img src="images/valentines/red-white-small-bear.jpg" class="image">
+					<h4 class="balloon-name">Small Red Bear</h4>
+					<p class="balloon-info">Valentines gift with a small red teddy bear and a rose.</p>
 				</div>
 
 
-			<div class="col-md-12" id="valentines-balloons">
+			<div class="col-md-12" id="football-balloons">
 				<h3 class="balloon-type">Football/sports Balloons</h3>
 			</div>
 				<div class="col-md-4">
-					<p class="balloon-info">Test row 1</p>
+					<img src="images/football/cowboys-bear.jpg" class="image">
+					<h4 class="balloon-name">Cowboys Bear</h4>
+					<p class="balloon-info">Cowboys balloon with a teddy bear and scarf.</p>
 				</div>
 				<div class="col-md-4">
-					<p class="balloon-info">Test row 2</p>
+					<img src="images/football/steelers-bear.jpg" class="image">
+					<h4 class="balloon-name">Steelers Bear</h4>
+					<p class="balloon-info">Steelers balloon with a teddy bear and scarf.</p>
 				</div>
 				<div class="col-md-4">
-					<p class="balloon-info">Test row 3</p>
+					<img src="images/football/lobos-bear.jpg" class="image">
+					<h4 class="balloon-name">Lobos Bear</h4>
+					<p class="balloon-info">Small lobos bear with a lobos necklace.</p>
 				</div>
 				<div class="col-md-4">
 					<p class="balloon-info">Test row 4</p>
