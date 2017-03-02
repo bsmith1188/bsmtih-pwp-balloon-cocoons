@@ -36,6 +36,17 @@
 		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"
 				  integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa"
 				  crossorigin="anonymous"></script>
+		<!-- jQuery Form, Validate, Additional Methods -->
+		<script type="text/javascript"
+				  src="https://cdnjs.cloudflare.com/ajax/libs/jquery.form/3.51/jquery.form.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.16.0/jquery.validate.min.js"
+				  type="text/javascript"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.16.0/additional-methods.min.js"
+				  type="text/javascript"></script>
+
+		<!--custom form validator-->
+		<script
+
 	</head>
 	<body>
 		<header>
@@ -45,9 +56,9 @@
 		</header>
 		<div class="container">
 			<div class="col-md-12" id="intro">
-				<h2>This site is a gallery with the decriptions of ballons for sale along with prices. Custom balloons are
+				<h2>This site is a gallery with the descriptions of balloons for sale along with prices. Custom balloons are
 					available and you can even put your own stuff in them! Contact me below for more information on the
-					balloons and pricing details
+					balloons and pricing details.
 				</h2>
 			</div>
 
