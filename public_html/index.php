@@ -56,8 +56,7 @@
 		</header>
 		<div class="container">
 			<div class="col-md-12" id="intro">
-				<h2>This site is a gallery with the descriptions of balloons for sale along with prices. Custom balloons are
-					available and you can even put your own stuff in them! Contact me below for more information on the
+				<h2>This site is a gallery with the descriptions of balloons for sale along with prices. Most balloons are made on demand and it is possible to add your own items into the balloons. Contact me below for more information on the
 					balloons and pricing details.
 				</h2>
 			</div>
@@ -95,9 +94,9 @@
 					<p class="balloon-info">Table setting with pink and white flowers with a sucker.</p>
 				</div>
 				<div class="col-md-4">
-					<img src="images/regular/yellow-bear.jpg" class="image">
+					<img src="images/regular/yellow-bear.jpg" class="image" alt="small yellow teddy bear">
 					<h4 class="balloon-name">Small Bear</h4>
-					<p class="balloon-info">Gift with a small bear and a pendant.</p>
+					<p class="balloon-info">Gift with a small bear, yellow flowers and a pendant.</p>
 				</div>
 				<div class="col-md-4">
 					<img src="images/regular" class="image">
@@ -105,7 +104,9 @@
 					<p class="balloon-info">Gift with a small yellow bear and a pendant.</p>
 				</div>
 				<div class="col-md-4">
-					<p class="balloon-info">Test row 9</p>
+					<img src="images/regular/red-small-bear.jpg" class="image">
+					<h4 class="balloon-name">Small Red Bear</h4>
+					<p class="balloon-info">Gift with a small bear, red flowers and a pendant.</p>
 				</div>
 			</div>
 
@@ -148,22 +149,34 @@
 				<h3 class="balloon-type">Valentines Balloons</h3>
 				</div>
 				<div class="col-md-4">
-					<p class="balloon-info">Test row 1</p>
+					<img src="images/valentines/white-flower.jpg" class="image">
+					<h4 class="balloon-name">White Flower Heart</h4>
+					<p class="balloon-info">Valentines theme balloon with a heart shaped balloon, white rose candy and white flowers.</p>
 				</div>
 				<div class="col-md-4">
-					<p class="balloon-info">Test row 2</p>
+					<img src="images/valentines/red-white-sucker.jpg" class="image">
+					<h4 class="balloon-name">White Red Sucker</h4>
+					<p class="balloon-info">Valentines balloon with white and red flowers with a sucker.</p>
 				</div>
 				<div class="col-md-4">
-					<p class="balloon-info">Test row 3</p>
+					<img src="images/valentines/red-white-flower.jpg" class="image">
+					<h4 class="balloon-name">White Red Flower</h4>
+					<p class="balloon-info">Valentines balloon with white flowers and a chocolate rose.</p>
 				</div>
 				<div class="col-md-4">
-					<p class="balloon-info">Test row 4</p>
+					<img src="images/valentines/pink-large-bear.jpg" class="image">
+					<h4 class="balloon-name">Large Pink Bear</h4>
+					<p class="balloon-info">Valentines balloon with a large teddy bear and candy.</p>
 				</div>
 				<div class="col-md-4">
-					<p class="balloon-info">Test row 5</p>
+					<img src="images/valentines/red-white-bear.jpg" class="image">
+					<h4 class="balloon-name">Large Bear</h4>
+					<p class="balloon-info">Valentines balloon with a large teddy bear and sucker.</p>
 				</div>
 				<div class="col-md-4">
-					<p class="balloon-info">Test row 6</p>
+					<img src="images/valentines/pink-bear-seeds.jpg" class="image">
+					<h4 class="balloon-name">Small Bear Valentines</h4>
+					<p class="balloon-info">Valentines balloon with small bear, candy, and a chocolate rose.</p>
 				</div>
 				<div class="col-md-4">
 					<p class="balloon-info">Test row 7</p>
