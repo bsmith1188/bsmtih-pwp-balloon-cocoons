@@ -51,13 +51,12 @@
 	<body>
 		<header>
 			<div class="container">
-				<h1>Welcome to <span id="balloon-cocoons">Balloon Cocoons</span></h1>
+				<h1 class="welcome">Welcome to <span id="balloon-cocoons">Balloon Cocoons</span></h1>
 			</div>
 		</header>
 		<div class="container">
 			<div class="col-md-12" id="intro">
-				<h2>This site is a gallery with the descriptions of balloons for sale along with prices. Most balloons are made on demand and it is possible to add your own items into the balloons. Contact me below for more information on the
-					balloons and pricing details.
+				<h2>Here is a gallery of the balloons that are possible to be made. They make great gift for birthdays or just special occasions and can be easily styled as such. Balloons are made to order so they can be customized and your own items can even be included!
 				</h2>
 			</div>
 
