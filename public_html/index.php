@@ -80,19 +80,29 @@
 					<p class="balloon-info">Graduation gift including a small bear and necklace.</p>
 				</div>
 				<div class="col-md-4">
-					<p class="balloon-info">Test row 4</p>
+					<img src="images/regular/purple-flower.jpg" class="image">
+					<h4 class="balloon-name">Purple Flower</h4>
+					<p class="balloon-info">Table setting with purple flowers with a sucker.</p>
 				</div>
 				<div class="col-md-4">
-					<p class="balloon-info">Test row 5</p>
+					<img src="images/regular/purple-red-flower.jpg" class="image">
+					<h4 class="balloon-name">Purple Red Flower</h4>
+					<p class="balloon-info">Table setting with red and purple flowers with a sucker.</p>
 				</div>
 				<div class="col-md-4">
-					<p class="balloon-info">Test row 6</p>
+					<img src="images/regular/white-pink-flower.jpg" class="image">
+					<h4 class="balloon-name">Pink White Flower</h4>
+					<p class="balloon-info">Table setting with pink and white flowers with a sucker.</p>
 				</div>
 				<div class="col-md-4">
-					<p class="balloon-info">Test row 7</p>
+					<img src="images/regular/yellow-bear.jpg" class="image">
+					<h4 class="balloon-name">Small Bear</h4>
+					<p class="balloon-info">Gift with a small bear and a pendant.</p>
 				</div>
 				<div class="col-md-4">
-					<p class="balloon-info">Test row 8</p>
+					<img src="images/regular" class="image">
+					<h4 class="balloon-name">Small Yellow Bear</h4>
+					<p class="balloon-info">Gift with a small yellow bear and a pendant.</p>
 				</div>
 				<div class="col-md-4">
 					<p class="balloon-info">Test row 9</p>
