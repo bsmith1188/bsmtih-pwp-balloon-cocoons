@@ -52,163 +52,163 @@
 			</div>
 
 			<div class="col-md-12" id="regular">
-				<h3>Regular Balloons</h3>
+				<h3 class="balloon-type">Regular Balloons</h3>
 			</div>
 			<div class="col-md-4">
-				<p>Test row 1</p>
+				<p class="balloon-info">Test row 1</p>
 			</div>
 			<div class="col-md-4">
-				<p>Test row 2</p>
+				<p class="balloon-info">Test row 2</p>
 			</div>
 			<div class="col-md-4">
-				<p>Test row 3</p>
+				<p class="balloon-info">Test row 3</p>
 			</div>
 			<div class="col-md-4">
-				<p>Test row 4</p>
+				<p class="balloon-info">Test row 4</p>
 			</div>
 			<div class="col-md-4">
-				<p>Test row 5</p>
+				<p class="balloon-info">Test row 5</p>
 			</div>
 			<div class="col-md-4">
-				<p>Test row 6</p>
+				<p class="balloon-info">Test row 6</p>
 			</div>
 			<div class="col-md-4">
-				<p>Test row 7</p>
+				<p class="balloon-info">Test row 7</p>
 			</div>
 			<div class="col-md-4">
-				<p>Test row 8</p>
+				<p class="balloon-info">Test row 8</p>
 			</div>
 			<div class="col-md-4">
-				<p>Test row 9</p>
+				<p class="balloon-info">Test row 9</p>
 			</div>
 
 
 			<div class="col-md-12" id="christmas-balloons">
-				<h3>Christmas Style Balloons</h3>
+				<h3 class="balloon-type">Christmas Style Balloons</h3>
 			</div>
 			<div class="col-md-4">
 				<img src="images/christmas/christmas-floral.jpg"
-				<p>Test row 1</p>
+				<p class="balloon-info">Test row 1</p>
 			</div>
 			<div class="col-md-4">
-				<p>Test row 2</p>
+				<p class="balloon-info">Test row 2</p>
 			</div>
 			<div class="col-md-4">
-				<p>Test row 3</p>
+				<p class="balloon-info">Test row 3</p>
 			</div>
 			<div class="col-md-4">
-				<p>Test row 4</p>
+				<p class="balloon-info">Test row 4</p>
 			</div>
 			<div class="col-md-4">
-				<p>Test row 5</p>
+				<p class="balloon-info">Test row 5</p>
 			</div>
 			<div class="col-md-4">
-				<p>Test row 6</p>
+				<p class="balloon-info">Test row 6</p>
 			</div>
 			<div class="col-md-4">
-				<p>Test row 7</p>
+				<p class="balloon-info">Test row 7</p>
 			</div>
 			<div class="col-md-4">
-				<p>Test row 8</p>
+				<p class="balloon-info">Test row 8</p>
 			</div>
 			<div class="col-md-4">
-				<p>Test row 9</p>
+				<p class="balloon-info">Test row 9</p>
 			</div>
 
 
 			<div class="col-md-12" id="valentines-balloons">
-				<h3>Valentines Balloons</h3>
+				<h3 class="balloon-type">Valentines Balloons</h3>
 			</div>
 			<div class="col-md-4">
-				<p>Test row 1</p>
+				<p class="balloon-info">Test row 1</p>
 			</div>
 			<div class="col-md-4">
-				<p>Test row 2</p>
+				<p class="balloon-info">Test row 2</p>
 			</div>
 			<div class="col-md-4">
-				<p>Test row 3</p>
+				<p class="balloon-info">Test row 3</p>
 			</div>
 			<div class="col-md-4">
-				<p>Test row 4</p>
+				<p class="balloon-info">Test row 4</p>
 			</div>
 			<div class="col-md-4">
-				<p>Test row 5</p>
+				<p class="balloon-info">Test row 5</p>
 			</div>
 			<div class="col-md-4">
-				<p>Test row 6</p>
+				<p class="balloon-info">Test row 6</p>
 			</div>
 			<div class="col-md-4">
-				<p>Test row 7</p>
+				<p class="balloon-info">Test row 7</p>
 			</div>
 			<div class="col-md-4">
-				<p>Test row 8</p>
+				<p class="balloon-info">Test row 8</p>
 			</div>
 			<div class="col-md-4">
-				<p>Test row 9</p>
+				<p class="balloon-info">Test row 9</p>
 			</div>
 
 
 			<div class="col-md-12" id="valentines-balloons">
-				<h3>Football/sports Balloons</h3>
+				<h3 class="balloon-type">Football/sports Balloons</h3>
 			</div>
 			<div class="col-md-4">
-				<p>Test row 1</p>
+				<p class="balloon-info">Test row 1</p>
 			</div>
 			<div class="col-md-4">
-				<p>Test row 2</p>
+				<p class="balloon-info">Test row 2</p>
 			</div>
 			<div class="col-md-4">
-				<p>Test row 3</p>
+				<p class="balloon-info">Test row 3</p>
 			</div>
 			<div class="col-md-4">
-				<p>Test row 4</p>
+				<p class="balloon-info">Test row 4</p>
 			</div>
 			<div class="col-md-4">
-				<p>Test row 5</p>
+				<p class="balloon-info">Test row 5</p>
 			</div>
 			<div class="col-md-4">
-				<p>Test row 6</p>
+				<p class="balloon-info">Test row 6</p>
 			</div>
 			<div class="col-md-4">
-				<p>Test row 7</p>
+				<p class="balloon-info">Test row 7</p>
 			</div>
 			<div class="col-md-4">
-				<p>Test row 8</p>
+				<p class="balloon-info">Test row 8</p>
 			</div>
 			<div class="col-md-4">
-				<p>Test row 9</p>
+				<p class="balloon-info">Test row 9</p>
 			</div>
 
 
 			<div class="col-md-12" id="birthday-balloons">
-				<h3>Birthday Balloons</h3>
+				<h3 class="balloon-type">Birthday Balloons</h3>
 			</div>
 			<div class="col-md-4">
-				<p>Test row 1</p>
+				<p class="balloon-info">Test row 1</p>
 			</div>
 			<div class="col-md-4">
-				<p>Test row 2</p>
+				<p class="balloon-info">Test row 2</p>
 			</div>
 			<div class="col-md-4">
-				<p>Test row 3</p>
+				<p class="balloon-info">Test row 3</p>
 			</div>
 			<div class="col-md-4">
-				<p>Test row 4</p>
+				<p class="balloon-info">Test row 4</p>
 			</div>
 			<div class="col-md-4">
-				<p>Test row 5</p>
+				<p class="balloon-info">Test row 5</p>
 			</div>
 			<div class="col-md-4">
-				<p>Test row 6</p>
+				<p class="balloon-info">Test row 6</p>
 			</div>
 			<div class="col-md-4">
-				<p>Test row 7</p>
+				<p class="balloon-info">Test row 7</p>
 			</div>
 			<div class="col-md-4">
-				<p>Test row 8</p>
+				<p class="balloon-info">Test row 8</p>
 			</div>
 			<div class="col-md-4">
-				<p>Test row 9</p>
+				<p class="balloon-info">Test row 9</p>
 			</div>
 
 
