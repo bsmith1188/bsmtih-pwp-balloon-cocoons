@@ -87,7 +87,7 @@
 				<h3 class="balloon-type">Christmas Style Balloons</h3>
 			</div>
 			<div class="col-md-4">
-				<img src="images/christmas/christmas-floral.jpg"
+				<img class="image" src="images/christmas/christmas-floral.jpg"
 				<p class="balloon-info">Test row 1</p>
 			</div>
 			<div class="col-md-4">
