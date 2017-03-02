@@ -65,13 +65,19 @@
 			<div class="col-md-12" id="regular">
 				<h3 class="balloon-type">Regular Balloons</h3>
 				<div class="col-md-4">
-					<p class="balloon-info">Test row 1</p>
+					<img src="images/regular/purple-graduation-manzano.jpg" class="image">
+					<h4 class="balloon-name">Manzano Graduation:</h4>
+					<p class="balloon-info">Manzano graduation gift including a small bear and a necklace. <span class="price">$25</span></p>
 				</div>
 				<div class="col-md-4">
-					<p class="balloon-info">Test row 2</p>
+					<img src="images/regular/orange-graduation-bear.jpg" class="image">
+					<h4 class="balloon-name">Graduation orange:</h4>
+					<p class="balloon-info">Graduation gift including a small bear and necklace.</p>
 				</div>
 				<div class="col-md-4">
-					<p class="balloon-info">Test row 3</p>
+					<img src="images/regular/blue-graduation-bear.jpg" class="image">
+					<h4 class="balloon-name">Graduation blue:</h4>
+					<p class="balloon-info">Graduation gift including a small bear and necklace.</p>
 				</div>
 				<div class="col-md-4">
 					<p class="balloon-info">Test row 4</p>
@@ -98,8 +104,9 @@
 				<h3 class="balloon-type">Christmas Style Balloons</h3>
 				</div>
 				<div class="col-md-4">
-					<img class="image" src="images/christmas/christmas-floral.jpg"
-					<p class="balloon-info"><span class="balloon-name">Christmas Floral:</span>Flowered balloon with a christmas theme including a cat-tail. $25</p>
+					<img class="image" src="images/christmas/christmas-floral.jpg">
+					<h4 class="balloon-name">Christmas Floral:</h4>
+					<p class="balloon-info"><span class="balloon-name">Flowered balloon with a christmas theme including a cat-tail. <span class="price">$25</span></p>
 				</div>
 				<div class="col-md-4">
 					<p class="balloon-info">Test row 2</p>
