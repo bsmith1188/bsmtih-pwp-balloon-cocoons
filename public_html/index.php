@@ -54,7 +54,7 @@
 				<h1 class="welcome">Welcome to <span id="balloon-cocoons">Balloon Cocoons</span></h1>
 			</div>
 		</header>
-		<div class="container">
+		<div class="container-fluid">
 			<div class="col-md-12" id="intro">
 				<h2>Here is a gallery of the balloons that are possible to be made. They make great gift for birthdays or just special occasions and can be easily styled as such. Balloons are made to order so they can be customized and your own items can even be included!
 				</h2>
@@ -62,22 +62,22 @@
 
 			<div class="col-md-12" id="regular-balloons">
 				<h3 class="balloon-type">Regular Balloons</h3>
-				<div class="col-md-4">
+				<div class="col-sm-4">
 					<img src="images/regular/purple-graduation-manzano.jpg" class="image">
-					<h4 class="balloon-name">Manzano Graduation:</h4>
+					<h4 class="balloon-name">Manzano Graduation</h4>
 					<p class="balloon-info">Manzano graduation gift including a small bear and a necklace. <span class="price">$25</span></p>
 				</div>
-				<div class="col-md-4">
+				<div class="col-sm-4">
 					<img src="images/regular/orange-graduation-bear.jpg" class="image">
-					<h4 class="balloon-name">Graduation orange:</h4>
+					<h4 class="balloon-name">Graduation orange</h4>
 					<p class="balloon-info">Graduation gift including a small bear and necklace.</p>
 				</div>
-				<div class="col-md-4">
+				<div class="col-sm-4">
 					<img src="images/regular/blue-graduation-bear.jpg" class="image">
-					<h4 class="balloon-name">Graduation blue:</h4>
+					<h4 class="balloon-name">Graduation blue</h4>
 					<p class="balloon-info">Graduation gift including a small bear and necklace.</p>
 				</div>
-				<div class="col-md-4">
+				<div class="col-sm-4">
 					<img src="images/regular/purple-flower.jpg" class="image">
 					<h4 class="balloon-name">Purple Flower</h4>
 					<p class="balloon-info">Table setting with purple flowers with a sucker.</p>
@@ -92,17 +92,17 @@
 					<h4 class="balloon-name">Pink White Flower</h4>
 					<p class="balloon-info">Table setting with pink and white flowers with a sucker.</p>
 				</div>
-				<div class="col-md-4">
+				<div class="col-sm-4">
 					<img src="images/regular/yellow-bear.jpg" class="image" alt="small yellow teddy bear">
 					<h4 class="balloon-name">Small Bear</h4>
 					<p class="balloon-info">Gift with a small bear, yellow flowers and a pendant.</p>
 				</div>
-				<div class="col-md-4">
-					<img src="images/regular" class="image">
+				<div class="col-sm-4">
+					<img src="images/regular/yellow-small-bear.jpg" class="image">
 					<h4 class="balloon-name">Small Yellow Bear</h4>
 					<p class="balloon-info">Gift with a small yellow bear and a pendant.</p>
 				</div>
-				<div class="col-md-4">
+				<div class="col-sm-4">
 					<img src="images/regular/red-small-bear.jpg" class="image">
 					<h4 class="balloon-name">Small Red Bear</h4>
 					<p class="balloon-info">Gift with a small bear, red flowers and a pendant.</p>
@@ -184,7 +184,7 @@
 				</div>
 				<div class="col-md-4">
 					<img src="images/valentines/pink-small-bear.jpg" class="image">
-					<h4 class=balloon-name">Small Pink Bear</h4>
+					<h4 class="balloon-name">Small Pink Bear</h4>
 					<p class="balloon-info">Valentines gift with a small pink teddy bear and a necklace.</p>
 				</div>
 				<div class="col-md-4">

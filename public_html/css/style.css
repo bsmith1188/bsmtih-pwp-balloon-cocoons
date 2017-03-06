@@ -1,16 +1,35 @@
 .image{
-	height: 300px;
-	width: 300px;
+	height: 320px;
+	width: 320px;
+	border: 2px solid darkred;
 
 }
 
 body{
 	background-color: gainsboro;
+	color: #555555
 
 }
 
 .welcome{
-	font-size: 10em;
-	font-family: ;
+	font-size: 6em;
+	font-family: Vijaya;
+	text-align: center;
+	text-decoration: underline;
+	color: #555555
 }
 
+#intro{
+	font-family: Garamond;
+}
+
+.balloon-type{
+	font-size: 4em;
+	font-family: "Adobe Arabic";
+	text-decoration: wavy;
+	border-bottom: 1px solid darkred;
+}
+
+#balloon-cocoons{
+	color: darkred;
+}
