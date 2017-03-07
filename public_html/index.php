@@ -65,47 +65,47 @@
 				<div class="col-sm-4">
 					<img src="images/regular/purple-graduation-manzano.jpg" class="image">
 					<h4 class="balloon-name">Manzano Graduation</h4>
-					<p class="balloon-info">Manzano graduation gift including a small bear and a necklace. <span class="price">$25</span></p>
+					<p class="balloon-info">Manzano graduation gift with a small bear and a necklace. <span class="price">$25</span></p>
 				</div>
 				<div class="col-sm-4">
 					<img src="images/regular/orange-graduation-bear.jpg" class="image">
 					<h4 class="balloon-name">Graduation orange</h4>
-					<p class="balloon-info">Graduation gift including a small bear and necklace.</p>
+					<p class="balloon-info">Graduation gift including a small bear and necklace. <span class="price">$25</span></p>
 				</div>
 				<div class="col-sm-4">
 					<img src="images/regular/blue-graduation-bear.jpg" class="image">
 					<h4 class="balloon-name">Graduation blue</h4>
-					<p class="balloon-info">Graduation gift including a small bear and necklace.</p>
+					<p class="balloon-info">Graduation gift including a small bear and necklace. <span class="price">$25</span></p>
 				</div>
 				<div class="col-sm-4">
 					<img src="images/regular/purple-flower.jpg" class="image">
 					<h4 class="balloon-name">Purple Flower</h4>
-					<p class="balloon-info">Table setting with purple flowers with a sucker.</p>
+					<p class="balloon-info">Table setting with purple flowers with a sucker. <span class="price">$25</span></p>
 				</div>
 				<div class="col-md-4">
 					<img src="images/regular/purple-red-flower.jpg" class="image">
 					<h4 class="balloon-name">Purple Red Flower</h4>
-					<p class="balloon-info">Table setting with red and purple flowers with a sucker.</p>
+					<p class="balloon-info">Table setting with red and purple flowers with a sucker. <span class="price">$25</span></p>
 				</div>
 				<div class="col-md-4">
 					<img src="images/regular/white-pink-flower.jpg" class="image">
 					<h4 class="balloon-name">Pink White Flower</h4>
-					<p class="balloon-info">Table setting with pink and white flowers with a sucker.</p>
+					<p class="balloon-info">Table setting with pink and white flowers with a sucker. <span class="price">$25</span></p>
 				</div>
 				<div class="col-sm-4">
 					<img src="images/regular/yellow-bear.jpg" class="image" alt="small yellow teddy bear">
 					<h4 class="balloon-name">Small Bear</h4>
-					<p class="balloon-info">Gift with a small bear, yellow flowers and a pendant.</p>
+					<p class="balloon-info">Gift with a small bear, yellow flowers and a pendant. <span class="price">$25</span></p>
 				</div>
 				<div class="col-sm-4">
 					<img src="images/regular/yellow-small-bear.jpg" class="image">
 					<h4 class="balloon-name">Small Yellow Bear</h4>
-					<p class="balloon-info">Gift with a small yellow bear and a pendant.</p>
+					<p class="balloon-info">Gift with a small yellow bear and a pendant. <span class="price">$25</span></p>
 				</div>
 				<div class="col-sm-4">
 					<img src="images/regular/red-small-bear.jpg" class="image">
 					<h4 class="balloon-name">Small Red Bear</h4>
-					<p class="balloon-info">Gift with a small bear, red flowers and a pendant.</p>
+					<p class="balloon-info">Gift with a small bear, red flowers and a pendant. <span class="price">$25</span></p>
 				</div>
 			</div>
 
@@ -150,32 +150,32 @@
 				<div class="col-md-4">
 					<img src="images/valentines/white-flower.jpg" class="image">
 					<h4 class="balloon-name">White Flower Heart</h4>
-					<p class="balloon-info">Valentines theme balloon with a heart shaped balloon, white rose candy and white flowers.</p>
+					<p class="balloon-info">Valentines theme balloon with a heart shaped balloon, white rose candy and white flowers. <span class="price">$25</span></p>
 				</div>
 				<div class="col-md-4">
 					<img src="images/valentines/red-white-sucker.jpg" class="image">
 					<h4 class="balloon-name">White Red Sucker</h4>
-					<p class="balloon-info">Valentines balloon with white and red flowers with a sucker.</p>
+					<p class="balloon-info">Valentines balloon with white and red flowers with a sucker. <span class="price">$25</span></p>
 				</div>
 				<div class="col-md-4">
 					<img src="images/valentines/red-white-flower.jpg" class="image">
 					<h4 class="balloon-name">White Red Flower</h4>
-					<p class="balloon-info">Valentines balloon with white flowers and a chocolate rose.</p>
+					<p class="balloon-info">Valentines balloon with white flowers and a chocolate rose. <span class="price">$25</span></p>
 				</div>
 				<div class="col-md-4">
 					<img src="images/valentines/pink-large-bear.jpg" class="image">
 					<h4 class="balloon-name">Large Pink Bear</h4>
-					<p class="balloon-info">Valentines balloon with a large teddy bear and candy.</p>
+					<p class="balloon-info">Valentines balloon with a large teddy bear and candy. <span class="price">$35</span></p>
 				</div>
 				<div class="col-md-4">
 					<img src="images/valentines/red-white-bear.jpg" class="image">
 					<h4 class="balloon-name">Large Bear</h4>
-					<p class="balloon-info">Valentines balloon with a large teddy bear and sucker.</p>
+					<p class="balloon-info">Valentines balloon with a large teddy bear and sucker. <span class="price">$35</span></p>
 				</div>
 				<div class="col-md-4">
 					<img src="images/valentines/pink-bear-seeds.jpg" class="image">
 					<h4 class="balloon-name">Small Bear Valentines</h4>
-					<p class="balloon-info">Valentines balloon with small bear, candy, and a chocolate rose.</p>
+					<p class="balloon-info">Valentines balloon with small bear, candy, and a chocolate rose. <span class="price">$25</span></p>
 				</div>
 				<div class="col-md-4">
 					<img src="images/valentines/pink-bear.jpg" class="image">
@@ -185,12 +185,12 @@
 				<div class="col-md-4">
 					<img src="images/valentines/pink-small-bear.jpg" class="image">
 					<h4 class="balloon-name">Small Pink Bear</h4>
-					<p class="balloon-info">Valentines gift with a small pink teddy bear and a necklace.</p>
+					<p class="balloon-info">Valentines gift with a small pink teddy bear and a necklace. <span class="price">$25</span></p>
 				</div>
 				<div class="col-md-4">
 					<img src="images/valentines/red-white-small-bear.jpg" class="image">
 					<h4 class="balloon-name">Small Red Bear</h4>
-					<p class="balloon-info">Valentines gift with a small red teddy bear and a rose.</p>
+					<p class="balloon-info">Valentines gift with a small red teddy bear and a rose. <span class="price">$25</span></p>
 				</div>
 
 
@@ -200,38 +200,20 @@
 				<div class="col-md-4">
 					<img src="images/football/cowboys-bear.jpg" class="image">
 					<h4 class="balloon-name">Cowboys Bear</h4>
-					<p class="balloon-info">Cowboys balloon with a teddy bear and scarf.</p>
+					<p class="balloon-info">Cowboys balloon with a teddy bear and scarf. <span class="price">$35</span></p>
 				</div>
 				<div class="col-md-4">
 					<img src="images/football/steelers-bear.jpg" class="image">
 					<h4 class="balloon-name">Steelers Bear</h4>
-					<p class="balloon-info">Steelers balloon with a teddy bear and scarf.</p>
+					<p class="balloon-info">Steelers balloon with a teddy bear and scarf. <span class="price">$35</span></p>
 				</div>
 				<div class="col-md-4">
 					<img src="images/football/lobos-bear.jpg" class="image">
 					<h4 class="balloon-name">Lobos Bear</h4>
-					<p class="balloon-info">Small lobos bear with a lobos necklace.</p>
-				</div>
-				<div class="col-md-4">
-					<p class="balloon-info">Test row 4</p>
-				</div>
-				<div class="col-md-4">
-					<p class="balloon-info">Test row 5</p>
-				</div>
-				<div class="col-md-4">
-					<p class="balloon-info">Test row 6</p>
-				</div>
-				<div class="col-md-4">
-					<p class="balloon-info">Test row 7</p>
-				</div>
-				<div class="col-md-4">
-					<p class="balloon-info">Test row 8</p>
-				</div>
-				<div class="col-md-4">
-					<p class="balloon-info">Test row 9</p>
+					<p class="balloon-info">Small lobos bear with a lobos necklace. <span class="price">$35</span></p>
 				</div>
 
-
+<!--This needs to be commented out as well, there are no pictures currently available for this
 			<div class="col-md-12" id="birthday-balloons">
 				<h3 class="balloon-type">Birthday Balloons</h3>
 			</div>
@@ -261,13 +243,71 @@
 			</div>
 			<div class="col-md-4">
 				<p class="balloon-info">Test row 9</p>
-			</div>
+			</div>-->
 
 
 		</div>
 
-		<footer>
-			<!--footer content-->
+
+
+
+		<div class="container">
+			<form id="contact-form" class="form-horizontal action="php/mailer.php">
+			<div class="form-group">
+				<label for="name">Name</label>
+				<div class="input-group">
+					<div class="input-group-addon">
+						<i class="fa fa-user" aria-hidden="true"></i>
+					</div>
+					<input type="text" class="form-control" id="name" name="name" placeholder="Name">
+				</div>
+			</div>
+			<div class="form-group">
+				<label for="email">Email address</label>
+				<div class="input-group">
+					<div class="input-group-addon">
+						<i class="fa fa-envelope" aria-hidden="true"></i>
+					</div>
+					<input type="email" class="form-control" id="email" name="email" placeholder="Email">
+				</div>
+			</div>
+			<div class="form-group">
+				<label for="subject">Subject</label>
+				<div class="input-group">
+					<div class="input-group-addon">
+						<i class="fa fa-pencil" aria-hidden="true"></i>
+					</div>
+					<input type="text" class="form-control" id="subject" name="subject" placeholder="Subject">
+				</div>
+			</div>
+			<div class="form-group">
+				<label for="message">Message</label>
+				<div class="input-group">
+					<div class="input-group-addon">
+						<i class="fa fa-comment" aria-hidden="true"></i>
+					</div>
+					<textarea class="form-control" rows="5" id="message" name="message"
+								 placeholder="Message"></textarea>
+				</div>
+			</div>
+			<button class="btn btn-success" type="submit"><i class="fa fa-paper-plane"></i> Send</button>
+			<button class="btn btn-warning" type="reset"><i class="fa fa-ban"></i> Reset</button>
+			<div class="g-recaptcha recap-style" data-sitekey="6LeocRcUAAAAACjPtiUO7ldndZ30JXGzQsi515Pi"></div>
+			</form>
+			<div class="row">
+				<div class="col-xs-12">
+					<div id="output-area"></div>
+				</div>
+			</div>
+		</div>
+		<!--credit: rochelle lewis form-->
+		<!--empty area for form error/success output-->
+
+
+
+
+		<footer class="footer-pwp">
+			Copyright @Balloon Cocoons
 		</footer>
 
 	</body>
