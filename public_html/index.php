@@ -150,7 +150,7 @@
 				<div class="col-md-4">
 					<img src="images/valentines/white-flower.jpg" class="image">
 					<h4 class="balloon-name">White Flower Heart</h4>
-					<p class="balloon-info">Valentines theme balloon with a heart shaped balloon, white rose candy and white flowers. <span class="price">$25</span></p>
+					<p class="balloon-info">Valentines balloon with white rose candy and white flowers. <span class="price">$25</span></p>
 				</div>
 				<div class="col-md-4">
 					<img src="images/valentines/red-white-sucker.jpg" class="image">
