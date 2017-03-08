@@ -1,8 +1,14 @@
+.whole-bitch{
+	padding-left: 0px;
+}
+
+
 .image{
 	height: 320px;
 	width: 320px;
 	border: 2px solid darkred;
 	@media (min-device-width: 700px), padding 0, margin 0;
+	;
 
 	}
 
@@ -14,12 +20,13 @@ body{
 }
 
 .welcome{
-	font-size: 5em;
+	font-size: 4em;
 	font-family: Vijaya;
 	text-align: center;
 	text-decoration: underline;
 	color: #555555;
-	@media (min-width: 700px), font-size: 3em;
+	@media (min-width: 700px), font-size: 2em;
+	background-image: url("");
 
 	}
 
@@ -29,7 +36,7 @@ body{
 }
 
 .balloon-type{
-	font-size: 4em;
+	font-size: 3em;
 	font-family: "Adobe Arabic";
 	text-decoration: wavy;
 	border-bottom: 1px solid darkred;
@@ -41,4 +48,10 @@ body{
 
 .footer-pwp{
 	text-align: center;
+}
+
+.price{
+	color: black;
+	font-weight: bold;
+	text-decoration: underline;
 }

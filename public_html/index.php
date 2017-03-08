@@ -54,30 +54,33 @@
 				<h1 class="welcome">Welcome to <span id="balloon-cocoons">Balloon Cocoons</span></h1>
 			</div>
 		</header>
-		<div class="container-fluid">
+		<div class="container-fluid whole-bitch">
 			<div class="col-md-12" id="intro">
-				<h2>Here is a gallery of the balloons that are possible to be made. They make great gift for birthdays or just special occasions and can be easily styled as such. Balloons are made to order so they can be customized and your own items can even be included!
-				</h2>
+				<h2>What is a Balloon Cocoon?</h2>
+				<p>A Balloon Cocoon is a gift for just about any occasion ranging from birthdays to Thanksgiving to anniversaries. Depending on the type of balloon they can also make a great table setting with artificial flowers of virtually any color to accent whatever you like. All my balloons are made to order so I can put special items in the balloons for you just as long as they fit.</p>
+				<h3>Below is a gallery of the balloons to show their basic structure and give you a grasp on what is possible for them.
+				</h3>
 			</div>
 
 			<div class="col-md-12" id="regular-balloons">
 				<h3 class="balloon-type">Regular Balloons</h3>
-				<div class="col-sm-4">
+			</div>
+				<div class="col-md-4">
 					<img src="images/regular/purple-graduation-manzano.jpg" class="image">
 					<h4 class="balloon-name">Manzano Graduation</h4>
 					<p class="balloon-info">Manzano graduation gift with a small bear and a necklace. <span class="price">$25</span></p>
 				</div>
-				<div class="col-sm-4">
+				<div class="col-md-4">
 					<img src="images/regular/orange-graduation-bear.jpg" class="image">
 					<h4 class="balloon-name">Graduation orange</h4>
 					<p class="balloon-info">Graduation gift including a small bear and necklace. <span class="price">$25</span></p>
 				</div>
-				<div class="col-sm-4">
+				<div class="col-md-4">
 					<img src="images/regular/blue-graduation-bear.jpg" class="image">
 					<h4 class="balloon-name">Graduation blue</h4>
 					<p class="balloon-info">Graduation gift including a small bear and necklace. <span class="price">$25</span></p>
 				</div>
-				<div class="col-sm-4">
+				<div class="col-md-4">
 					<img src="images/regular/purple-flower.jpg" class="image">
 					<h4 class="balloon-name">Purple Flower</h4>
 					<p class="balloon-info">Table setting with purple flowers with a sucker. <span class="price">$25</span></p>
@@ -92,17 +95,17 @@
 					<h4 class="balloon-name">Pink White Flower</h4>
 					<p class="balloon-info">Table setting with pink and white flowers with a sucker. <span class="price">$25</span></p>
 				</div>
-				<div class="col-sm-4">
+				<div class="col-md-4">
 					<img src="images/regular/yellow-bear.jpg" class="image" alt="small yellow teddy bear">
 					<h4 class="balloon-name">Small Bear</h4>
 					<p class="balloon-info">Gift with a small bear, yellow flowers and a pendant. <span class="price">$25</span></p>
 				</div>
-				<div class="col-sm-4">
+				<div class="col-md-4">
 					<img src="images/regular/yellow-small-bear.jpg" class="image">
 					<h4 class="balloon-name">Small Yellow Bear</h4>
 					<p class="balloon-info">Gift with a small yellow bear and a pendant. <span class="price">$25</span></p>
 				</div>
-				<div class="col-sm-4">
+				<div class="col-md-4">
 					<img src="images/regular/red-small-bear.jpg" class="image">
 					<h4 class="balloon-name">Small Red Bear</h4>
 					<p class="balloon-info">Gift with a small bear, red flowers and a pendant. <span class="price">$25</span></p>
@@ -210,7 +213,7 @@
 				<div class="col-md-4">
 					<img src="images/football/lobos-bear.jpg" class="image">
 					<h4 class="balloon-name">Lobos Bear</h4>
-					<p class="balloon-info">Small lobos bear with a lobos necklace. <span class="price">$35</span></p>
+					<p class="balloon-info">Small lobos bear with a lobos necklace. <span class="price">$25</span></p>
 				</div>
 
 <!--This needs to be commented out as well, there are no pictures currently available for this
@@ -250,7 +253,11 @@
 
 
 
-
+		<div class="container contact">
+			<div class="col-md-12">
+				Contact me here for special orders or questions I'd love to hear from you!
+			</div>
+		</div>
 		<div class="container">
 			<form id="contact-form" class="form-horizontal action="php/mailer.php">
 			<div class="form-group">
