@@ -36,3 +36,11 @@ Your Milestone 2&alpha; passes at [Tier II](https://bootcamp-coders.cnm.edu/proj
 - The meta charset tag is missing the closing `>` This can be potentially toxic.
 - Don't forget the `alt` attribute on your `<img>` tags!
 
+## Final Feedback 
+
+I love what you have accomplished with Balloons Cacoons. The color scheme is really pleasing to the eye. I love how mobile responsive the site is, and you really embodied mobile first development The way you aligned the photos of your project was also nicely done. 
+
+There really is only two problems with your site. One, you have no ReCaptcha for your contact form. Second, because you do not have a ReCaptcha your contact form doesn't work. If you add the ReCaptcha everything should work. If you need any help debugging let me know. 
+
+### Grade Tier III
+
